@@ -1,0 +1,27 @@
+.background{
+    background-color: aquamarine;
+}
+
+#notice
+{
+    color: darkred;
+    font-weight: bolder;
+}
+
+#im1
+{
+    height: 200px;
+    width: 300px;
+}
+
+#im2
+{
+    height: 200px;
+    width: 300px;
+}
+
+#im3
+{
+    height: 200px;
+    width: 300px;
+}
